@@ -4,7 +4,7 @@
  * Date: 20-Nov-2026
  *
  * Authors:
- *     [Matricula] [Nombre del integrante 1]
+ *     A01754255 Farid Presbitero
  *     [Matricula] [Nombre del integrante 2]
  *----------------------------------------------------------*/
 
